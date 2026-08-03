@@ -1,0 +1,84 @@
+# LicenseChain LicenseChain-Java-SDK - .gitignore
+
+# Language-specific ignores
+*.exe
+*.dll
+*.so
+*.dylib
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Build outputs
+/target/
+build/
+dist/
+out/
+bin/
+obj/
+
+# Local Maven distribution / wrapper downloads (do not commit)
+.mvn/wrapper/apache-maven-*/
+
+# Dependencies
+node_modules/
+vendor/
+packages/
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Logs
+logs/
+*.log
+
+# Test files
+test/
+tests/
+spec/
+specs/
+!src/test/
+!src/test/java/
+!src/test/java/com/
+!src/test/java/com/licensechain/
+!src/test/java/com/licensechain/HwuidHashSpecTest.java
+
+# Coverage
+coverage/
+*.coverage
+*.lcov
+
+# Backup files
+*.bak
+*.backup
+*.old
+*.orig
+
+# Archive files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Local agent / OPSEC
+.claude/
+CLAUDE.md
