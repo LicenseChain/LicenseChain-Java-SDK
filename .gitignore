@@ -82,3 +82,8 @@ coverage/
 # Local agent / OPSEC
 .claude/
 CLAUDE.md
+target/
+.classpath
+.project
+.settings/
+*.iml
