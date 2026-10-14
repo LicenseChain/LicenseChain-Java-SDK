@@ -2,7 +2,8 @@
 
 [![License](https://img.shields.io/badge/license-Elastic--2.0-blue.svg)](LICENSE)
 [![Java](https://img.shields.io/badge/Java-11+-blue.svg)](https://openjdk.java.net/)
-[![Maven Central](https://img.shields.io/maven-central/v/com.licensechain/licensechain-sdk)](https://search.maven.org/artifact/com.licensechain/licensechain-sdk)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.licensechain/licensechain-java-sdk)](https://repo1.maven.org/maven2/io/github/licensechain/licensechain-java-sdk/)
+[![CI](https://github.com/LicenseChain/LicenseChain-Java-SDK/actions/workflows/ci.yml/badge.svg)](https://github.com/LicenseChain/LicenseChain-Java-SDK/actions/workflows/ci.yml)
 
 Official Java SDK for LicenseChain - Secure license management for Java applications.
 
