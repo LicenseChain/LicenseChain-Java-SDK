@@ -26,9 +26,9 @@ Add to your `pom.xml`:
 
 ```xml
 <dependency>
-    <groupId>com.licensechain</groupId>
-    <artifactId>licensechain-sdk</artifactId>
-    <version>1.0.0</version>
+    <groupId>io.github.licensechain</groupId>
+    <artifactId>licensechain-java-sdk</artifactId>
+    <version>1.0.1</version>
 </dependency>
 ```
 
@@ -37,7 +37,7 @@ Add to your `pom.xml`:
 Add to your `build.gradle`:
 
 ```gradle
-implementation 'com.licensechain:licensechain-sdk:1.0.0'
+implementation 'io.github.licensechain:licensechain-java-sdk:1.0.1'
 ```
 
 ### Method 3: Manual Installation
