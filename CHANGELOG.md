@@ -5,6 +5,10 @@ All notable changes to this project are documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [Unreleased]
+
+- Pinned OkHttp to 4.12.0; OkHttp 5.x Maven artifact is metadata-only and breaks compilation.
+
 ## [1.0.1] - 2026-10-10
 
 - Relicensed public surface under Elastic License 2.0 (ELv2).
